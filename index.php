@@ -10,7 +10,9 @@
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi culpa, asperiores laboriosam reprehenderit magnam assumenda, error natus qui officia provident porro possimus quos maiores quasi quis aliquam eveniet. Voluptatem, illum!</p>
     <ul>
         <li>satu</li>
-        <li>dua</lie>
+        <li>dua</li>
+        <li>tiga</li>
+        <lig>empat </li>
     </li>
 </body>
 </html>
